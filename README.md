@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Arduino-orange)
 ![Language](https://img.shields.io/badge/language-C++-blue)
-
+    
 
 An embedded light intensity monitoring system using a Light Dependent Resistor (LDR) to measure ambient brightness levels through analog data acquisition.
 
